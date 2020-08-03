@@ -1,7 +1,11 @@
 #include <iostream>
 
+enum Week{
+    ONE,TWO
+};
+
 int main(void){
-    std::cout << "Hello Linux" << std::endl;
+    Week today = TWO;
     
     return 0;
 }
