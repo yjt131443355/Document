@@ -5,7 +5,7 @@ enum Week{
 };
 
 int main(void){
-    
+    Week today = TWO;
     
     return 0;
 }
