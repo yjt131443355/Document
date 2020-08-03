@@ -5,6 +5,7 @@ enum Week{
 };
 
 int main(void){
+<<<<<<< Updated upstream
 <<<<<<< HEAD
     Week today = TWO;
 =======
@@ -13,3 +14,7 @@ int main(void){
     
     return 0;
 }
+=======
+    Week today = TWO;
+}
+>>>>>>> Stashed changes
